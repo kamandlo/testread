@@ -1,7 +1,0 @@
-version: '3'
-services:
-        ubuntua:
-                image: 'github.com/kamandlo/docker.git'
-                ports:
-                        - 6000:6000
-
